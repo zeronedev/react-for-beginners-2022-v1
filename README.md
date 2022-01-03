@@ -24,3 +24,5 @@ $ npm i prop-types
 #7.2 Coin Tracker
 출처: <https://nomadcoders.co/react-for-beginners/lectures/3288>
 //코인 목록 가져오기 url https://api.coinpaprika.com/v1/tickers
+
+#7.7 Publishing
