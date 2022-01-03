@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-for-beginners-2022-v1.0.0/static/js/main.ed1b9c03.js",
-    "index.html": "/react-for-beginners-2022-v1.0.0/index.html",
-    "main.ed1b9c03.js.map": "/react-for-beginners-2022-v1.0.0/static/js/main.ed1b9c03.js.map"
+    "main.js": "/react-for-beginners-2022-v1/static/js/main.ed1b9c03.js",
+    "index.html": "/react-for-beginners-2022-v1/index.html",
+    "main.ed1b9c03.js.map": "/react-for-beginners-2022-v1/static/js/main.ed1b9c03.js.map"
   },
   "entrypoints": [
     "static/js/main.ed1b9c03.js"
